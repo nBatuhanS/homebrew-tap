@@ -1,6 +1,6 @@
 cask "quotanest" do
-  version "0.1.0"
-  sha256 "98e0d7fe69653de9c8f03ef7f0c7874bf9257e3784e07a38f67bd80a7ba97d14"
+  version "0.1.1"
+  sha256 "b21d8d4859c84fecdc733f1df4ebcbb5e6626d7f370adeaa5ba42ab1261dbd7e"
 
   url "https://github.com/nBatuhanS/QuotaNest/releases/download/v#{version}/QuotaNest.dmg"
   name "QuotaNest"
